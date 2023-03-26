@@ -4,3 +4,5 @@ node_modules
 **/package.json
 !/package.json
 myst_options_poc
+src
+ui-tests
